@@ -1,0 +1,8 @@
+{
+  "name": "Large Text",
+  "description": "Toggle large text from the Quick Settings Menu",
+  "uuid": "largetext@snensmens.github.com",
+  "shell-version": [
+    "45", "46", "47", "48"
+  ]
+}
